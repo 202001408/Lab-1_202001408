@@ -1,0 +1,35 @@
+QUESTION 1.
+
+FRs: Functional Requirements:
+
+-Ability for members to easily borrow and return books.
+-Possibility of extending the borrowing period for members.
+-Staff members' capacity to manage daily operations
+-The librarian's ability to add and remove book records.
+-Online book searching and browsing available to non-members.
+
+NFRs: Non-Functional Requirements:
+
+-HTML 5 web application
+-Restricted to the LAN of the institution.
+-Plain text should not be used to store confidential information.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+QUESTION 2.
+
+SCOPE:
+-The problem's scope is to develop a remedy for those with disabling hearing loss.
+-The answer is a mobile application that recognises important sound occurrences using artificial intelligence.
+
+FEATURES:
+-The application should be user-friendly and easy to use for individuals with disabling hearing loss.
+-Recognize infant cries and car horns.
+-Send out prompt notifications for audible events.
+-Recording identified sound events continuously.
+-Low-latency and Android-optimized for real-time use.
+
+NON FUNCTIONAL ASPECTS:
+-Instantaneous performance.
+-Suited to the Android operating system.
+-The application should be secure and protect the users' privacy and personal information.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
